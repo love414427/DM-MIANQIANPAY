@@ -37,7 +37,7 @@
 </div>
 
 <div align="center" >
-<a href="源代码下载地址：https://t.me/AprxAppoem">源代码下载地址</a>
+<a href="https://t.me/AprxAppoem">源代码下载地址</a>
 </div>
 
 
